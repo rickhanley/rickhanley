@@ -5,6 +5,8 @@ My focus is on **Python**, **Excel automation**, and **lightweight web apps** th
 
 Below are selected projects from my portfolio:
 
+![JournalWings gradient header](https://github.com/rickhanley/journalwings/blob/main/pics/JW_landing.png?raw=true)
+
 - [**JournalWings**](https://github.com/rickhanley/JournalWings)  
   Automates restructuring of ERP journal data into upload-ready spreadsheets.  
   ✦ Tech: Python, xlwings, Excel automation, OOP design  
